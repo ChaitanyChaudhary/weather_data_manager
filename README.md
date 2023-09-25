@@ -22,10 +22,7 @@
    pip install requests json csv os
    ```
 
-3. Download the timezone_query.py file from the same repo and place it in the project directory alongside weather_data_manager.py.
-
-
-4. Replace `YOUR_API_KEY` in the code with your actual API key.
+3. Replace `YOUR_API_KEY` in the code with your actual API key.
 
 ## Usage Guide
 
