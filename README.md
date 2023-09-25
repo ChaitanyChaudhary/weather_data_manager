@@ -44,10 +44,6 @@
 
 6. The data will be stored in a CSV file named `weather-report.csv` in the project directory for future reference.
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
