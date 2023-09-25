@@ -14,12 +14,12 @@
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/yourusername/weather-data-manager.git
+   git clone https://github.com/ChaitanyChaudhary/weather_data_manager.git
    ```
 
 2. Install the required Python packages using pip:
    ```
-   pip install requests json csv os timezone_query
+   pip install requests json csv os
    ```
 
 3. Download the timezone_query.py file from the same repo and place it in the project directory alongside weather_data_manager.py.
@@ -33,7 +33,7 @@
 
 2. Navigate to the project directory:
    ```
-   cd weather-data-manager
+   cd weather_data_manager
    ```
 
 3. Run the Python script:
